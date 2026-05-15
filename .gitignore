@@ -4,3 +4,6 @@ DerivedData/
 Package.resolved
 xcuserdata/
 *.xcworkspace
+
+.build-cache/
+.build-scratch/
